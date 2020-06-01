@@ -1,2 +1,2 @@
 # Sound
-Some patches and ideas. Feel free to collaborate
+Some code and ideas. Feel free to collaborate

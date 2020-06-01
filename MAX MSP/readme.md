@@ -1,3 +1,3 @@
-#MAX/MSP
+# Sound
 
 Some patches in MAX. Tested in MAX8
